@@ -1,3 +1,0 @@
-C:/Users/dhfuc/Documents/Personal/Subjects/AI/ThucHanh2/bee_solve_vrp/cmake-build-debug/CMakeFiles/bee_solve_vrp.dir
-C:/Users/dhfuc/Documents/Personal/Subjects/AI/ThucHanh2/bee_solve_vrp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dhfuc/Documents/Personal/Subjects/AI/ThucHanh2/bee_solve_vrp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,0 @@
-phuc,Dimension,Number of Trucks,Capacity,Optimal Cost,ABC Cost,Execution Time
-A-n32-k5,32,5,100,784,835.679,9.364
-A-n33-k5,33,5,100,661,681.455,25.255
-A-n33-k6,33,6,100,742,762.953,36.661
-A-n34-k5,34,5,100,778,814.972,13.449
