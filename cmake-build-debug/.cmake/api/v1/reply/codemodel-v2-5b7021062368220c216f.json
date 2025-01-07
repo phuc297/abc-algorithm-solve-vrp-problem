@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bee_solve_vrp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bee_solve_vrp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bee_solve_vrp-Debug-8d36f1bdcd00e7298dc3.json",
+					"name" : "bee_solve_vrp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dhfuc/Documents/Personal/Subjects/AI/ThucHanh2/bee_solve_vrp/cmake-build-debug",
+		"source" : "C:/Users/dhfuc/Documents/Personal/Subjects/AI/ThucHanh2/bee_solve_vrp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
